@@ -1,2 +1,2 @@
 # Detecting-network-attacks-
-Using Artificial neural nets to detect the threats using network protocols credentials 
+Using Artificial neural nets to detect the threats using network protocols credentials.I have created a small IOT systems where, each of them ping the central system, which has pre-trained artificial nerual net model, which has the ability to verify the threat based on the network protocols that is being used to connect to the central system. Then the central system verifies the conncetion and allow the connection to happen.
